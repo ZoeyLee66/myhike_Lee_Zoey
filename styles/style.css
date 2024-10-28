@@ -13,3 +13,42 @@
     width: 100%;
     height: auto;
   }
+.rounded-circle {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  /* Centers the circle horizontally */
+}
+.navbar-brand{
+    font-family: "Protest Strike", sans-serif; /*change the font name for what you have*/
+    font-size: 2.25rem;
+    font-weight: 500;
+}
+.content_font {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+}
+
+.nav-custom {
+    margin-top: 10px;
+    height: 37.33px;
+}
+
+.bgr-info {
+    background-color: #3B67B6;
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #F4F4F4;
+}
+.btn-info {
+    color: #4C3424;
+    background-color: #FCF4C4;
+    border-color: #3B67B6;
+}
+.btn-primary {
+    color: #3B67B6;
+    font-size: 150%;
+    background-color: #FCF4C4;
+    border-color: #7C7C7C;
+    border-width: thick;
+}
